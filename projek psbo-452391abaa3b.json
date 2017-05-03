@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "projek-psbo",
+  "private_key_id": "452391abaa3b6af0d01bf191fa97d4b4132618ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC63t8hnHFATd5A\n2kpybI27tMq6CU1AIMZXhIB0Zop9gKBvg+AfTwMCrkSwuYHYKmd/FyFOBMTJSN/I\n24VL3GF6/3dL2MtDs7972WDeTPN1Xu9JZFgwrkAKGO0tLu4YCGVA0WkU2NYntQPh\nHWOHkRVQaHipxXZ4gJxqyj9NkDIJAgpbFyubdE3lmjYRgweV/UzMD6cVmyb6FRId\neyLa0PNszGCFDOkLILrwiXz0Fs7ftMKxsSMMqIsM3T+2kO2WVQSNvy2FZ/0ZBlt5\n1gxMABq0V0fmcZM128L1Df1BNdCQo1Zjqd9yIaxsiIOxqrcI1QknDYmXfImYE5Ys\nMd82CiFzAgMBAAECggEAZvLryG+QcNW1UNMx2nH1b2i9mtoPBfpIauSjg/0N5PBc\n8rKbYYQ861gonZfFcdqCpCCRB5NW+nE8YEKX3+Asj/93sIBiEw1Ou6NZW37XTV0c\nxLkUYNVOkIGFALRvFSxi49+6XXLMIJn35igzsfb64A5+E0Gm7+Iiyi5by5ZaCl10\nBnKbPeyaxd3QcBFfUGeyOTnT5/5kOhqVmCDR6Tdms2lZwJA6O+eIrQJwZ6yq76+b\nNEoHxGbPYnNVavgG0eMdc0TFy3OHdhLNOPhfb00wvoiz4KMkhEcK9JftIzqX/hQn\nfy05Bt+4n2LgkwBfTzWdijoU5rAISy4Qt10AsH2iMQKBgQDzguQcKlN+moytLH3q\nbnDtxtKsN5iDB9+o2e61AT2e4UbXHmzcR5FWrYsdXQbtRE5b7DOsH9o6/0QOTosf\niS2comqP233zDOYwZDUhleM4BBSPvgFlSmXTAv8bE2FbfRrCPSE+ShawtS8R53XV\nkmDIXiWy1TjUHRWJWbrFwf8deQKBgQDEdFVWcRRh4m3tT2RXvon6LH9fscVgpbfp\npv75h/gzBdTJCcE/qkjNYz133B1/Zu1OBP2GQGBw33S04c4E1SlIUlMVeeqzA+Cr\n4G6UOYBM0768NEWg7G9plZ779z/rF30qh3RtbIf6GUzWhkQ1QNgJ2WhhYq+ap+S+\nvUCuFFO3SwKBgCkDXKQZxOJH6XWpTrPTUhXaLNVwr7Ex/EuWGQxHXzeJPcMxjqgz\nLZlptUqGxonjvUbiK3nMC5dwMugt9mSjWBlPiZ8dGsN64rI3znMPqatflI75M4b5\n1tiJYqoOw5EDKySX4yd4lwXAHmNnloMYGlDk+nh6TQ38sAnoIPr5x5wRAoGBALXe\nOK54qvTfSQL7j5pHc7adgSGXEnGhmPv+tGdPf+/EQzQGCtgkjZdOezY+GTS7lY63\nwfiKGn4D8CgQLsh8ieZBCFeGcUdenJyhfd1MykDVeesDvT34BEBL2k3KnGrIaQB5\nO8idQ9i9mUu0Kurd5+JeWWpmkMjtCy+lRn6hpMq3AoGBAJBtEToXntVvmUtGGvBL\nJsl+YNGEYsoDbTt+7V68gEeigL40thJYdzft6vXixW9+SgbvZ096yHRJhzvwHRcH\nbeE7tB2Y75g5UgS7s1lsv6d/wzNjFkvofPjAQcmg9Dj41osdGJEtoMKfOH1blo0G\n2rWk9tn1SUclsQ81bAOLcx9N\n-----END PRIVATE KEY-----\n",
+  "client_email": "amaliyah@projek-psbo.iam.gserviceaccount.com",
+  "client_id": "105616916672769961599",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amaliyah%40projek-psbo.iam.gserviceaccount.com"
+}

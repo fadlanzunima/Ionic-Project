@@ -1,0 +1,50 @@
+<!--
+  Generated template for the Login page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>Registrasi</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content class="outer-content">
+    <ion-list>
+      <ion-item>
+        <ion-label color="primary" stacked>Nama Depan</ion-label>
+        <ion-input type="text" [(ngModel)] = "nama_depan" ></ion-input>
+      </ion-item>
+      <ion-item>
+        <ion-label color="primary" stacked>Nama Belakang</ion-label>
+        <ion-input type="text" [(ngModel)] = "nama_belakang" ></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label color="primary" stacked>Tanggal Lahir</ion-label>
+        <ion-datetime displayFormat="MMM DD YYYY" [(ngModel)]="event"></ion-datetime>
+      </ion-item>
+
+      <ion-item>
+        <ion-label color="primary" stacked>Asal Sekolah</ion-label>
+        <ion-input type="text" [(ngModel)] = "asal_sekolah" ></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label color="primary" stacked>Email</ion-label>
+        <ion-input type="email" placeholder="amesikecil@yahoo.com" [(ngModel)]="email"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label color="primary" stacked>Password</ion-label>
+        <ion-input type="password" [(ngModel)]="pasw"></ion-input>
+      </ion-item>
+    
+    <div padding>
+      <button ion-button color="primary" (click)="regisSiswa(nama_depan,nama_belakang,event,asal_sekolah,email,pasw)" > Daftar</button>
+    </div>
+    
+  </ion-list>
+
+</ion-content>

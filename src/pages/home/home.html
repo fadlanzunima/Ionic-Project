@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+    <ion-buttons end>
+      <button ion-button icon-only (click) = "regisSiswa()"> 
+    <ion-icon name="add"></ion-icon>
+  </button>
+</ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content >
+  <ion-list>
+  <button ion-button *ngFor="let song of songs">
+    {{siswa.nama_depan}}
+    {{siswa.nama_belakang}}
+    {{siswa.event}}
+    {{siswa.asal_sekolah}}
+    {{siswa.email}}
+    {{siswa.pasw}}
+  </button>
+</ion-list>
+</ion-content>
